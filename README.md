@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/filipe-manoel/me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I’m an Forest Engineer and master in Genetics and Plant Breeding. Currently, I am a Phd Student in Genetics and Plant Breeding at University of Viçosa (UFV) in Brazil. My research interests include quantitative genetics,biometrics and genomic selection. I have been work mainly with perennial cultures, such as forages and trees species. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
